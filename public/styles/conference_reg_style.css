@@ -1,0 +1,81 @@
+.reg_container
+{
+	box-sizing: border-box;
+color:#ffffff;
+background-color:#fff;
+margin-top:160px;
+margin-bottom:200px;
+position: relative;
+height:90%;
+display: flex;
+display:-webkit-flex; 
+width:100%;
+justify-content:center;
+z-index:110px;
+}
+.reg_form{
+
+	text-align:center;
+	justify-content:center;
+	box-sizing: border-box;
+	background-color:#fff;
+	color:gray;
+	height:85%;
+	width:100%;
+}
+.reg_header{
+	font-size: 25px;
+	color:black;
+	text-shadow:3px 1px 4px #006699;
+
+
+}
+
+input[type=text]{
+		background-color:white;
+	padding:7px;
+	border-radius:5px;
+border-color:black;
+border-width:1px;
+width:100%
+}
+input[type=date]{
+		background-color:white;
+	padding:1px;
+	border-radius:5px;
+border-color:black;
+border-width:1px;
+width:100%
+}
+input[type=number]{
+		background-color:white;
+	padding:7px;
+	border-radius:5px;
+border-color:black;
+border-width:1px;
+width:100%
+}
+input[type=password]{
+		background-color:white;
+	padding:10px;
+	border-radius:5px;
+border-color:black;
+border-width:1px;
+width:100%
+}
+select
+{ background-color:white;
+	padding:7px;
+	border-radius:5px;
+border-color:black;
+border-width:1px;
+width:100%;
+width:100%
+}
+option
+{
+	background-color:black;
+	color:white;
+	width:100%
+	
+}

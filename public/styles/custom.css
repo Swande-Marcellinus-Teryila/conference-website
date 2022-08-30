@@ -1,0 +1,97 @@
+    .reg-section {
+        margin-top: 0px;
+        font-size: large;
+        text-align: left;
+    }
+    
+    .reg-title {
+        background-color: rgb(16, 43, 129);
+        top: 5px;
+        margin-bottom: 20px;
+        height: 56px;
+        color: white;
+        text-align: center;
+    }
+    
+    .reg-title-red {
+        background-color: rgb(173, 32, 32);
+        margin-top: 20px;
+        margin-bottom: 20px;
+        height: 56px;
+        color: white;
+        text-align: center;
+    }
+    
+    .reg-title h2 {
+        font-family: 'Courier New';
+        font-size: 25px;
+        text-align: center;
+    }
+    
+    .reg-div-mt {
+        margin-top: 20px;
+    }
+    
+    .bg-grey {
+        background-color: rgb(235, 231, 231);
+    }
+    
+    .bg-white {
+        background-color: white;
+    }
+    
+    input[type='text'] {
+        font-size: 15px;
+        border-radius: 4px;
+    }
+    
+    input[type='number'] {
+        font-size: 15px;
+        border-radius: 4px;
+    }
+    
+    input[type='email'] {
+        font-size: 15px;
+        border-radius: 4px;
+    }
+    
+    input[type='password'] {
+        font-size: 15px;
+        border-radius: 4px;
+    }
+    
+    input[type='email'] {
+        font-size: 15px;
+        border-radius: 4px;
+    }
+    
+    input[type='tel'] {
+        font-size: 15px;
+        border-radius: 4px;
+    }
+    
+    .forselect {
+        font-size: 16px;
+        width: 100%;
+        height: 50px;
+        border-radius: 4px;
+    }
+    
+    .submit {
+        background-color: rgb(15, 15, 161);
+        color: white;
+    }
+    
+    td {
+        text-align: left;
+    }
+    
+    .impactimgindex {
+        width: 100%;
+        height: 350px;
+    }
+    
+    .topslide {
+        height: 340px;
+        width: 100%;
+    }

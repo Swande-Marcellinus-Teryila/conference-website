@@ -1,0 +1,43 @@
+.admin_container
+{
+	box-sizing: border-box;
+color:#ffffff;
+background-color:#fff;
+margin-top:100px;
+margin-bottom:200px;
+position: relative;
+height:100%;
+display: flex;
+display:-webkit-flex; 
+width:100%;
+justify-content:center;
+z-index:110px;
+}
+.reg_form{
+
+	justify-content:right;
+	box-sizing: border-box;
+	background-color:#fff;
+	color:gray;
+	height:760px;
+	width:100%;
+}
+.admin_header{
+	
+
+	text-align:right;
+	font-size: 25px;
+	color:black;
+	text-shadow:3px 1px 4px #006699;
+
+
+}
+input[type=search]{
+		background-color:white;
+	padding:7px;
+	border-radius:5px;
+border-color:black;
+border-width:1px;
+width:9em;
+}
+
